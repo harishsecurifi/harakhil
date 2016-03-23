@@ -1,0 +1,25 @@
+{  
+   "CommandType":"DynamicDeviceAdded",
+   "Devices":{  
+      "<device id>":{  
+         "Name":"<device name>",
+         "FriendlyDeviceType":"<friendly device type name >",
+         "Type":"<device type id >",
+         "Location":"<location>",
+         "DeviceValues":{  
+            "1":{  
+               "Name":"<index name >",
+               "value":"<index val>"
+            },
+            "2":{  
+               "Name":"<index name>",
+               "Value":"<index val>"
+            },
+            "3":{  
+               "Name":"<index name>",
+               "Value":"<index val>"
+            }
+         }
+      }
+   }
+}
